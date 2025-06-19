@@ -1,3 +1,5 @@
 .. |i| replace:: here
+.. role:: raw-html(raw)
+	:format: html
 
-just |i|
+just |i| :raw-html:`<b>here</b>`
